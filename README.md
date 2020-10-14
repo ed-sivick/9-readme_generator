@@ -14,6 +14,7 @@ ___
 Below is a Summary output for the app using user-defined responses to create a **newReadme** file:
 
 # Project Title: Good README Generator
+![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 _____
 ## Description:
  This is a command-line app that dynamically generates a professional README from user input.
@@ -45,13 +46,12 @@ please contact the following person at their GitHub profile or email address bel
 * ed@sivick.net
 _____
 ## License
-You can view more information concerning software licenses at the following link for **Open Source Initiative**:
+You can view more information concerning software licenses at the following link:
 
 * [License](https://opensource.org/licenses/MIT)
 _____
 ## Badges
 ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
-
 ___
 ## Application Links and Images  
 **Links:**

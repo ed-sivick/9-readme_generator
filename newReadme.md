@@ -1,5 +1,6 @@
 
 # Project Title: Good README Generator
+![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 _____
 ## Description:
  This is a command-line app that dynamically generates a professional README from user input.
