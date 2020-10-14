@@ -33,7 +33,7 @@ _____
 ## License
 You can view more information concerning software licenses at the following link:
 
-* [License](https://opensource.org/licenses/ISC)
+* [License](https://opensource.org/licenses/MIT)
 _____
 ## Badges
-![License](https://img.shields.io/badge/License-ISC-blue.svg "License Badge")
+![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
