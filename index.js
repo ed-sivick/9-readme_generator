@@ -1,4 +1,4 @@
-// assigns const variables to node.js modules
+// assigns const variables to node.js installed modules, and generateMarkdown.js
 const inquirer = require("inquirer");
 const util = require("util");
 const genMarkdown = require("./utils/generateMarkdown");
