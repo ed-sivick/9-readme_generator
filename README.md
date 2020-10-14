@@ -59,10 +59,10 @@ Walkthrough Video (MP4): (https://drive.google.com/file/d/1fewA1GE0Cne1eKPY8fObZ
 
 **Application Image Examples:** Hover the mouse over each image for a brief description.
 <p align="left">
-  <img src="utils/images/new_readme1.png" width="325" margin-bottom: 10px; title="image of newREADME file unrendered" alt="image of newREADME file unrendered">
+  <img src="utils/images/new_readme1.png" width="400" margin-bottom: 10px; title="image of newREADME file unrendered" alt="image of newREADME file unrendered">
   
-  <img src="utils/images/new_readme2.png" width="325" align="right" title="image of newREADME file rendered" alt="image of newREADME file rendered">
+  <img src="utils/images/new_readme2.png" width="400" align="right" title="image of newREADME file rendered" alt="image of newREADME file rendered">
   </p>
 
   <p align="left">
-  <img src="utils/images/node_indexjs.png" width="325" margin-top: 10px; title="image of newREADME file unrendered" alt="image of newREADME file unrendered">
+  <img src="utils/images/node_indexjs.png" width="400" margin-top: 10px; title="image of user responses from running node index.js" alt="image of user responses from running node index.js">
