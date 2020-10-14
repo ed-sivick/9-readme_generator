@@ -1,17 +1,17 @@
 # README_generator
 ___ 
 ## Objective
-Create a command-line application that dynamically generates a professional README file from a user's input using the Inquirer package. The application will be invoked with the following command: **node index.js**.
+Create a command-line application that dynamically generates a professional README file from a user's input using the **Inquirer** package. The application will be invoked with the following command: **node index.js**.
 ___
 ## generateMarkdown.js
 The **generateMarkdown(data)** function utilizes a **const readmeData** variable to create the **generateMarkdown module**.  This is used as the template for the created newREADME file containing the user responses from the **Inquirer** npm package.    
 ___
 ## index.js
-The necessary node.js modules, **inquirer**, **util**, and **fs** are initially assigned to their relative const variables.  The **promisify function** allows a simpler use of **fs.writeFile**.  An array of question objects identifies the content of the **newReadme** and assigned to the const variable, questions. The **function init()** initializes the program, and the response is assigned to the **readmeData** const variable.  This is chained to the fs.writeFile which adds the readmeData to the "**newReadme**" file. **npm init** and **npm install** are typed on the integrated terminal to install the necessary packages/modules. **node index.js** is then typed to execute the program. 
+The necessary node.js modules, **inquirer**, **util**, and **fs** are initially assigned to their relative const variables.  The **promisify function** allows a simpler use of **fs.writeFile**.  An array of question objects identifies the content of the **newReadme** and assigned to the const variable, questions. The **function init()** initializes the program, and the response is assigned to the **readmeData** const variable.  This is chained to the fs.writeFile which adds the readmeData to the "**newReadme**" file. **npm init** and **npm install** are typed on the integrated terminal to install the necessary packages/modules. **node index.js** is then typed to the terminal, and the program executes. 
 
 ___
 ## Summary
-Below is the Summary of a user-defined **newReadme** file:
+Below is a Summary output for the app using user-defined responses to create a **newReadme** file:
 
 # Project Title: Good README Generator
 _____
@@ -45,7 +45,7 @@ please contact the following person at their GitHub profile or email address bel
 * ed@sivick.net
 _____
 ## License
-You can view more information concerning software licenses at the following link:
+You can view more information concerning software licenses at the following link for **Open Source Initiative**:
 
 * [License](https://opensource.org/licenses/MIT)
 _____
