@@ -44,4 +44,4 @@ _____
 `
 return readmeData;
 }
-module.exports = { generateMarkdown };
+module.exports = {generateMarkdown};
